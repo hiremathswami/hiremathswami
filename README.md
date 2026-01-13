@@ -1,5 +1,8 @@
 # 💫 About Me:
-tttI’m a passionate and curious learner exploring the intersection of technology, data, and innovation.<br> I’ve completed certifications in Google Analytics  and Full stack devloper
+Full-Stack Developer | AI-Focused  
+Google Data Analytics Certified  
+Building intelligent, data-driven applications
+
 
 
 ## 🌐 Socials:

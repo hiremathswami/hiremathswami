@@ -80,5 +80,3 @@ Currently focused on **Full-Stack + AI integration** for real-world applications
 To grow as a **Full-Stack + AI Engineer**, building intelligent systems that solve real-world problems using **software engineering, data, and artificial intelligence**.
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=hiremathswami&icon=0&color=0)
